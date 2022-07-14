@@ -1,0 +1,6 @@
+Programas creados para la materia de Programación Visual
+
+Lenguajes: C++, C#
+Programas: VisualCode, VisualStudio, Arduino
+
+Profesor: Roberto Ibañez
