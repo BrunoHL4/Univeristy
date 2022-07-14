@@ -1,0 +1,10 @@
+library ieee;
+use ieee.std_logic_1164.all;
+entity “nombre del archivo” is
+port 
+(A, B, C: in std_logic; F: out std_logic);
+end “nombre del archivo”;
+architecture rtl of “nombre del archivo” is
+begin
+F <= (not A AND not B) OR (not B AND C) OR (A AND not C);
+end rtl;
