@@ -1,0 +1,26 @@
+Name     compuerta AND y OR 4-2 ;
+PartNo   00 ;
+Date     25/09/2019 ;
+Revision 01 ;
+Designer Equipo 2 ;
+Company  ITTG ;
+Assembly None ;
+Location  ;
+Device   g22v10 ;
+
+
+PIN    2 = A0;                          
+PIN    3 = A1;                         
+PIN    4 = B0;                      
+PIN    5 = B1;                        
+
+PIN   23 = S0;  
+PIN   22 = S1; 
+
+S0=A1&A0;
+S1=B1#B0; 
+ 
+
+
+
+

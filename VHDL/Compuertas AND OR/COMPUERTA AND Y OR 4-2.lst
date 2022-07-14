@@ -1,0 +1,40 @@
+LISTING FOR LOGIC DESCRIPTION FILE: COMPUERTA AND Y OR 4-2.pld       Page 1
+
+CUPL(WM): Universal Compiler for Programmable Logic
+Version 5.0a Serial# 60008009
+Copyright (c) 1983, 1998 Logical Devices, Inc.
+Created Wed Sep 25 09:15:29 2019
+
+  1:Name     compuerta AND y OR 4-2 ;
+  2:PartNo   00 ;
+  3:Date     25/09/2019 ;
+  4:Revision 01 ;
+  5:Designer Equipo 2 ;
+  6:Company  ITTG ;
+  7:Assembly None ;
+  8:Location  ;
+  9:Device   g22v10 ;
+ 10:
+ 11:
+ 12:PIN    2 = A0;                          
+ 13:PIN    3 = A1;                         
+ 14:PIN    4 = B0;                      
+ 15:PIN    5 = B1;                        
+ 16:
+ 17:PIN   23 = S0;  
+ 18:PIN   22 = S1; 
+ 19:
+ 20:S0=A1&A0;
+ 21:S1=B1#B0; 
+ 22: 
+ 23:
+ 24:
+ 25:
+ 26:
+ 27:
+ 28:
+
+
+
+Jedec Fuse Checksum       (1c92)
+Jedec Transmit Checksum   (a875)
